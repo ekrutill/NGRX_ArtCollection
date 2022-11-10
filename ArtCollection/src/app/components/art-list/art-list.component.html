@@ -1,0 +1,6 @@
+<div class="art-item" *ngFor="let art of arts">
+    <p> {{ art.title}} </p>
+        <span> by {{ art.artist}} </span>
+        <button (click)="add.emit(art.id)" data-test="add-button"> Add to collection</button> 
+        <!-- data test - plus benefit for test -->
+</div>

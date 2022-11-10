@@ -1,0 +1,26 @@
+<div class="container my-5">
+  <div class="text-center">
+    <h2 class="my-3">Art Collection</h2>
+    <app-art-list
+      class="art-list"
+      [arts]="(arts$ | async) ?? []"
+      (add)="onAdd($event)"
+    >
+    </app-art-list>
+
+    <app-art-collection
+      class="art-collection"
+      [arts]="(artCollection$ | async) ?? []"
+      (remove)="onRemove($event)"
+    >
+    </app-art-collection>
+  </div>
+</div>
+
+<!-- // test purposes: -->
+
+<!-- <div class="art-item" *ngFor="let art of arts$ | async">
+  <p> {{ art.title}} </p>
+      <span> by {{ art.artist}} </span>
+      <div> {{ art.imgUrl}} </div>
+</div> -->

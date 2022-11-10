@@ -1,0 +1,95 @@
+{
+    "art": [
+      {
+        "id": 1,
+        "title": "The Water Liliy Pond",
+        "artist": "Claude Monet",
+        "technic": "Oil on canvas",
+        "date": "1917-1919",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1371/ge87dl_seerosenteich.990x0.jpg"
+      },
+      {
+        "id": 2,
+        "title": "The Kite",
+        "artist": "Mark Chagall",
+        "technic": "Watercolor",
+        "date": "1926",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/8995/marc_chagall-_der_papierdrachen_dl298.990x0.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Woman in the green hat",
+        "artist": "Pablo Picasso",
+        "technic": "Oil on canvas",
+        "date": "1947",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1456/9_pablo_picasso_-_frau_mit_gruenem_hut.990x0.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Im Garten II.",
+        "artist": "Oscar Kokoschka",
+        "technic": "Oil on canvas",
+        "date": "1934",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/9200/oskar_kokoschka-_im_garten_ii_ge64dl.990x0.jpg"
+      },
+      {
+        "id": 5,
+        "title": "London, kleine Themse-Landschraft",
+        "artist": "Oscar Kokoschka",
+        "technic": "Oil on canvas",
+        "date": "1926",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/9201/oskar_kokoschka_london-_kleine_themse-landschaft_1926_c_albertina-_wien_-_sammlung_batliner.990x0.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Ansicht von Vernet-les-Bains",
+        "artist": "Oscar Kokoschka",
+        "technic": "Oil on canvas",
+        "date": "1925",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/9202/oskar_kokoschka-_ansicht_von_vernes-les-bains_ge61dl-1.990x0.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Moonlit Night",
+        "artist": "Emil Nolde",
+        "technic": "Oil on canvas",
+        "date": "1914",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1373/1240983579639.990x0.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Still life with fruit bowl",
+        "artist": "Maurice de Vlaminck",
+        "technic": "Oil on canvas",
+        "date": "1905-1906",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1372/maurice_de_vlaminck_stillleben_mit_obstschale_1905_c_albertina-_wien_-_sammlung_batliner.990x0.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Young girl in flowered hat",
+        "artist": "Alexej von Jawlensky",
+        "technic": "Oil on canvas",
+        "date": "1910",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1374/1210000620135.990x0.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Weibicher Halbakt",
+        "artist": "Amadeo Modigliani",
+        "technic": "Oil on canvas",
+        "date": "1918",
+        "place": "The ALBERTINA Museum, Vienna",
+        "imgUrl": "https://www.albertina.at/site/assets/files/1375/1424084295809.990x0.jpg"
+      }
+    
+    ]
+  }
